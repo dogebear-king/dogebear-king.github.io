@@ -1,29 +1,16 @@
----
-layout: page
-title: DogeBear
-subtitle: 什么是 DogeBear Token (DB)
-sitemap:
-  priority: 0.9
----
+I"�<p><img src="/assets/img/dogebear.png" id="about-img" /></p>
 
 <div id="describe-text">
 
-<h1>Event</h1>
-<ul>
-
-<li><p><span>2021/05/11</span> - DogeBear 项目自上线 1 小时已经超过 100 持币地址，下一步将建立一个新的 DeFi 代币及经济模型，<strong>持有 DB 将获得巨量空投</strong> ，同时项目已经与部分 DeFi 平台取得联系，即将开展密切合作！</p>
-</li>
-
-</ul>
-
 <h1>Introduce</h1>
 
-<img src="{{ '/assets/img/dogebear.png' | prepend: site.baseurl }}" id="about-img">
 
 <p>DogeBear 是一个去中心化自发社区建设的实验。DB 代币是 Dogebear Org 社区的第一个代币，它允许用户持有数十亿甚至上万亿美元。</p>
 
 <p>上线同时会锁定所有流动性！锁入黑洞地址终止流通，永不撤出流动性。其余所有剩余代币全部注入Cake上的交易流动池，随后销毁私钥。获得 Dogebear 的唯一方法是在 PancakeSwap 上购买。
 </p>
+
+<p><strong> DogeBear 后续将会上线自己的 Dapp，并且与 <a href="http://paca.fi">paca.fi</a> 机枪池进行合作。</strong></p>
 
 <p>无任何项目方预留、团队预留和私募，实现完全的社区自治。持币地址突破 500 人后，将建立持币人自治群体，公平选举特别行政长官。</p>
 
@@ -42,3 +29,4 @@ sitemap:
 <p>Launch App: Comming Soon...</p>
 
 </div>
+:ET
