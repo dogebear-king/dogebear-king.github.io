@@ -1,12 +1,4 @@
----
-layout: page
-title: DogeBear
-subtitle: 什么是 DogeBear Token (DB)
-sitemap:
-  priority: 0.9
----
-
-<img src="{{ '/assets/img/dogebear.png' | prepend: site.baseurl }}" id="about-img">
+I"�<p><img src="/assets/img/dogebear.png" id="about-img" /></p>
 
 <div id="describe-text">
 
@@ -31,3 +23,4 @@ sitemap:
 
 
 </div>
+:ET

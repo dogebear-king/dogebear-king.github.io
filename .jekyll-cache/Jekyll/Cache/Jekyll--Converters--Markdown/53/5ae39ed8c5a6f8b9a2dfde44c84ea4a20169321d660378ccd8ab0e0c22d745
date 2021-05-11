@@ -1,16 +1,8 @@
----
-layout: page
-title: DogeBear
-subtitle: 什么是 DogeBear Token (DB)
-sitemap:
-  priority: 0.9
----
-
-<img src="{{ '/assets/img/dogebear.png' | prepend: site.baseurl }}" id="about-img">
+I"�<p><img src="/assets/img/dogebear.png" id="about-img" /></p>
 
 <div id="describe-text">
 
-<h1>Introduce</h1>
+<h1>What's DogeBear Token(DB)</h1>
 
 
 <p>DogeBear 是一个去中心化自发社区建设的实验。DB 代币是 Dogebear Org 社区的第一个代币，它允许用户持有数十亿甚至上万亿美元。</p>
@@ -31,3 +23,4 @@ sitemap:
 
 
 </div>
+:ET
